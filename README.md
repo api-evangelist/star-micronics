@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Star Micronics CloudPRNT is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://starmicronics.com/
+Star Micronics, founded in 1947, is a global manufacturer of point‑of‑sale (POS) hardware and technology. It offers a range of printers, label printers, kiosks, cash‑drawers and cloud‑based solutions such as CloudPRNT, enabling retailers and hospitality venues to print receipts and labels directly from cloud services. The company serves millions of businesses worldwide across retail, food service and other verticals, emphasizing reliable hardware, broad compatibility and developer resources.
+
+**Areas:** Company · POS · Hardware · Printing · Cloud · Technology
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://starmicronics.com/)
+- [Documentation](https://starmicronics.com/technology/cloudprnt)
+- [Support](https://starmicronics.com/star-micronics-technical-support)
+- [Blog](https://starmicronics.com/blog)
+- [Terms of service](https://starmicronics.com/terms-of-use)
+- [Privacy policy](https://starmicronics.com/privacy-policy)
+- [GitHub](https://github.com/star-micronics)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/star-micronics/](https://apis.io/providers/star-micronics/).
